@@ -1,4 +1,4 @@
-module com.artyomov {
+module com.lz77 {
     requires javafx.controls;
     requires javafx.fxml;
 
